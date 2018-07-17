@@ -1,6 +1,6 @@
 # digiblink/nodejs8-armhf Docker Container
 
-Maintained by [digiBlink](http://digiblink.eu) - [docker hub link](https://hub.docker.com/r/digiblink/jessie-nginx-php5-fpm/)
+Maintained by [digiBlink](http://digiblink.eu) - [docker hub link](https://hub.docker.com/r/digiblink/nodejs8-armhf/)
 
 Container with Node.js 8.11.3 LTS version for ARMv7 based on [resin/rpi-raspbian](https://hub.docker.com/r/resin/rpi-raspbian/).
 
