@@ -7,7 +7,7 @@ RUN apt-get update && \
                 ca-certificates \
                 --no-install-recommends
 RUN curl -sSLO \
-    https://nodejs.org/dist/v8.11.3/node-v8.11.3-linux-armv7l.tar.gz && \
+    https://nodejs.org/dist/v8.11.4/node-v8.11.4-linux-armv7l.tar.gz && \
     tar -xf node-*.tar.gz -C /usr/local \
     --strip-components=1 && \
     rm node-*.tar.gz

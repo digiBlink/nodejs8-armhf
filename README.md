@@ -2,7 +2,7 @@
 
 Maintained by [digiBlink](http://digiblink.eu) - [docker hub link](https://hub.docker.com/r/digiblink/nodejs8-armhf/)
 
-Container with Node.js 8.11.3 LTS version for ARMv7 based on [resin/rpi-raspbian](https://hub.docker.com/r/resin/rpi-raspbian/).
+Container with Node.js 8.11.4 LTS version for ARMv7 based on [resin/rpi-raspbian](https://hub.docker.com/r/resin/rpi-raspbian/).
 
 Based on following containers:
 
